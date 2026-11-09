@@ -13,4 +13,4 @@ public class Two_Sum{
         }
     }
 }
-//bad code abd bdly optimise
+//bad code and badly optimise
